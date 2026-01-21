@@ -1,1 +1,13 @@
 # pet-project
+# venv
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
